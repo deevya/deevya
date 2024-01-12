@@ -2,7 +2,7 @@
 <br />
 
 
-> <b> "If you are working on something exciting <br />that you really care about, <br />you dont have to be pushed. <br />The vision pulls you,"<br />
+> <b> "If you are working on something exciting <br />that you really care about, <br />you dont have to be pushed. <br />The vision pulls you."<br />
  ~Steve Jobs</b>
 <br />
 
