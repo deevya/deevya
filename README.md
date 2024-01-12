@@ -7,9 +7,7 @@
 <br />
 
 <br />
-
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
-
 I am Divya Kirad , a passionate engineering graduate specialised in information technology. A machine learning enthusiast. Looking for opportunities to work in reputed companies. 
 
 - 🔭 I’m currently working on [Portfolio Website](https://github.com/deevya/portfoliowebsite)
